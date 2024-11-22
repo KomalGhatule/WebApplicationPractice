@@ -29,5 +29,9 @@ namespace WebApplicationPractice.Controllers
             })
             .ToArray();
         }
+        public void GetData()
+        {
+            //Write a Code
+        }
     }
 }
